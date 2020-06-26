@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(136, 1, 23, 0.9);
+  background: #89023E;
   height: 60px;
 }
 
@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255, 255, 0.7);
   padding: 10px 0 10px 25px;
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
@@ -188,7 +188,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 3px;
   left: 25px;
-  background-color: #1acc8d;
+  background-color: #fff;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -1708,8 +1708,8 @@ section {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
-  transition: opacity 0.25s ease;
+  background: #89023E;
+  transition: opacity 0.50s ease;
   text-align: center;
 }
 .pricing .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category {
@@ -1730,8 +1730,8 @@ section {
 }
 #portfolio .container-fluid .portfolio-box, #portfolio .container-sm .portfolio-box, #portfolio .container-md .portfolio-box, #portfolio .container-lg .portfolio-box, #portfolio .container-xl .portfolio-box {
   position: relative;
-  max-width: 650px;
-  max-height: 240px;
+  /* max-width: 650px;
+  max-height: 240px; */
   display: block;
 }
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption,
@@ -1750,8 +1750,8 @@ section {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
-  transition: opacity 0.25s ease;
+  background: #89023E;
+  transition: opacity 0.50s ease;
   text-align: center;
 }
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category {
